@@ -3,6 +3,7 @@
 
 # 具体实现效果如下
 ![](https://raw.githubusercontent.com/qtpalmtop/swriperGatewayWebApp/master/images/demo-gif.gif)
+![](blob:https://www.shipinyasuo.com/45e5a0f9-bacd-4400-8856-ebfd9690b279)
 
 # 实现思路
 轮播按钮组：需要达到连续滚动的效果，因此中间5个按钮左右其实分别还有两个按钮，按钮组容器通过overflow控制按钮隐藏，如果左右两边隐藏按钮方式是display:none来控制，则无法达到滚动的效果；
