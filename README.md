@@ -1,2 +1,2 @@
 # swriperGatewayWebApp
-一个可通过一组轮播按钮切换背景的门户网站，轮播按钮组和切换效果都是原生Javascript实现
+一个可通过一组轮播按钮切换背景的自适应门户网站，轮播按钮组和切换效果都是原生Javascript实现
