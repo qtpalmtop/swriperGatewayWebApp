@@ -2,7 +2,7 @@
 一个可通过一组轮播按钮切换背景的自适应门户网站，轮播按钮组和切换效果都是原生Javascript实现
 
 # 具体实现效果如下
-![](https://raw.githubusercontent.com/qtpalmtop/swriperGatewayWebApp/master/images/demo-gif.gif)
+![](http://chuantu.xyz/t6/734/1589773835x3070492066.gif)
 ![](blob:https://www.shipinyasuo.com/45e5a0f9-bacd-4400-8856-ebfd9690b279)
 
 # 实现思路
